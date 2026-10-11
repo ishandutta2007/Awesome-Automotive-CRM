@@ -1,5 +1,3 @@
-# Awesome-Automotive-CRM
-
 # Awesome-Automotive-CRM 🚗 🤝
 
 
@@ -54,7 +52,9 @@
 
 ### 📌 Overview & SEO Summary
 
-Welcome to the ultimate curated directory of **automotive CRM platforms**, **open-source dealership management systems**, and **dealer operations frameworks**. Whether you are looking for enterprise-grade commercial solutions (such as *Salesforce Automotive Cloud*, *VinSolutions*, and *CDK Global*), or self-hostable open-source alternatives (like *Galpon*, *Car Warehousing Management System*, and *Dealership Management System*), this list covers category leaders, lead management, and privacy-respecting dealer CRM infrastructure.
+Welcome to the ultimate curated directory of **automotive CRM platforms**, **open-source dealership management systems (DMS)**, **auto dealer BDC lead software**, and **dealer operations frameworks**. Whether you are looking for enterprise-grade commercial solutions (such as *Salesforce Automotive Cloud*, *VinSolutions*, *CDK Global*, and *DriveCentric*), or self-hostable open-source alternatives (like *Autorizz*, *Galpon*, and *PostgreSQL/GraphQL DMS*), this repository covers market leaders, transparent pricing, API integration capabilities, and privacy-respecting auto dealership software infrastructure.
+
+> **Core Search Themes & Keywords:** `automotive-crm` | `dealership-management-system` | `auto-dealer-bdc` | `lead-management` | `desking-software` | `equity-mining` | `f-and-i` | `inventory-management` | `auto-repair-crm` | `open-source-dms`
 
 
 
