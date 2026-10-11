@@ -130,7 +130,7 @@ Welcome to the ultimate curated directory of **automotive CRM platforms**, **ope
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Autorizz Dealership System](https://github.com/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB)** [![Stars](https://img.shields.io/github/stars/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB?style=social&color=white)](https://github.com/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB/stargazers)  
   **Web-based DMS and dealership management application**, open-source. **Node.js + Express + MongoDB** . Streamlines automobile dealership operations, customer vehicle requests, showroom inventory, and sales order processing into an interactive dashboard. 🏎️
