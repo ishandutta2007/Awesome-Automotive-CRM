@@ -130,41 +130,46 @@ Welcome to the ultimate curated directory of **automotive CRM platforms**, **ope
 
 ## 🔓 Open-Source GitHub Projects
 
+*Sorted by GitHub Stars Count (Descending)* 🌟
 
+- **[Autorizz Dealership System](https://github.com/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB)** [![Stars](https://img.shields.io/github/stars/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB?style=social&color=white)](https://github.com/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB/stargazers)  
+  **Web-based DMS and dealership management application**, open-source. **Node.js + Express + MongoDB** . Streamlines automobile dealership operations, customer vehicle requests, showroom inventory, and sales order processing into an interactive dashboard. 🏎️
 
-*Sorted by GitHub_Stars_Count (Descending)* 🌟
+- **[Car Dealership Management Program](https://github.com/PP-Namias/Car-Dealership-Management-Program)** [![Stars](https://img.shields.io/github/stars/PP-Namias/Car-Dealership-Management-Program?style=social&color=white)](https://github.com/PP-Namias/Car-Dealership-Management-Program/stargazers)  
+  **High-performance car dealership management software**, open-source. Built entirely in **C++** with object-oriented dealership modeling, vehicle transaction processing, customer profiling, and local data persistence. 💻
 
-
-
-- **[Galpon](https://github.com/TeodorArg/galpon)** [![Stars](https://img.shields.io/github/stars/TeodorArg/galpon?style=social&color=white)](https://github.com/TeodorArg/galpon/stargazers)  
-
-  **Local CRM system for auto repair workshops**, open-source. **FastAPI + SQLModel + SQLite + Jinja2 + TailwindCSS** . **Centralized CSRF protection** with middleware issuing tokens on GET/HEAD/OPTIONS and `require_csrf` dependency validating on POST . **Alembic migrations** (`make migrate`), **demo data initialization** (`make init`), and **full database reset** (`make reset`) . **Media management scripts**: `audit_media_exists`, `repair_missing_variants`, `purge_broken_media --dry-run` . **i18n tooling**: `i18n-extract`, `i18n-init`, `i18n-all`, `i18n-update`, `i18n-compile` . **Linting with ruff (Python), eslint (JS), prettier (JSON/CSS/Markdown), djlint (Jinja)** . **The most complete open-source CRM for auto repair workshops**. 🔧
-
-
-
-- **[CarSale-CRM](https://github.com/mehdimirzaeeofficcial-cyber/carsale-crm)** [![Stars](https://img.shields.io/github/stars/mehdimirzaeeofficcial-cyber/carsale-crm?style=social&color=white)](https://github.com/mehdimirzaeeofficcial-cyber/carsale-crm/stargazers)  
-
-  **Comprehensive CRM for installment car sales**, open-source. **Features**: **customer management, vehicle catalog, contract system, installment tracking, communications (phone, SMS, WhatsApp), expert management, reporting, and company settings** . **Node.js (v16+), npm, Tailwind CSS, PWA manifest** . **GitHub Actions workflow for Azure Node.js deployment** . **The most complete open-source CRM for installment auto sales**. 🚗
-
-
+- **[Car Service Management System](https://github.com/jdinovo/CarServiceManagementSystem)** [![Stars](https://img.shields.io/github/stars/jdinovo/CarServiceManagementSystem?style=social&color=white)](https://github.com/jdinovo/CarServiceManagementSystem/stargazers)  
+  **Desktop DMS application for automotive service centers**, open-source. **Java + SQL database** . Enables dealership service managers and technicians to track customer repair orders, manage vehicle maintenance histories, record parts replacements, and log labor hours. 🛠️
 
 - **[Dealership Management System (alamariful1727)](https://github.com/alamariful1727/dealership-management-system)** [![Stars](https://img.shields.io/github/stars/alamariful1727/dealership-management-system?style=social&color=white)](https://github.com/alamariful1727/dealership-management-system/stargazers)  
+  **Backend system for automotive dealership operations**, open-source. **PostgreSQL schema with dealerships, vehicles, customers, and sales tables** . **GraphQL API built with NodeJS, Express, and TypeScript** . Optimized indexes for vehicle inventory queries (make/model/year), dealer filtering, and multi-rooftop transaction records. 🏗️
 
-  **Backend system for automotive dealership operations**, open-source. **PostgreSQL schema with dealerships, vehicles, customers, and sales tables** . **GraphQL API built with NodeJS, Express, and TypeScript** . **Indexes for vehicle searches (make/model/year), dealership filtering, customer lookups (last name), and sales history** . **Docker Compose for PostgreSQL, GitHub Actions, ESLint, Prettier** . **Multi-dealership support with isolated inventory and sales records** . **The most architecturally complete open-source DMS backend**. 🏗️
+- **[Car Showroom Management System](https://github.com/ShravanDalavi/Car-Showroom-Management-System)** [![Stars](https://img.shields.io/github/stars/ShravanDalavi/Car-Showroom-Management-System?style=social&color=white)](https://github.com/ShravanDalavi/Car-Showroom-Management-System/stargazers)  
+  **Modern car showroom management application**, open-source. Transforms traditional auto showroom operations with digital vehicle catalogs, customer inquiry management, quotation generation, and test-drive tracking. 🏢
 
+- **[Car Workshop Management App](https://github.com/alxayeed/car_workshop)** [![Stars](https://img.shields.io/github/stars/alxayeed/car_workshop?style=social&color=white)](https://github.com/alxayeed/car_workshop/stargazers)  
+  **Cross-platform auto repair and workshop booking app**, open-source. **Flutter + Firebase + GetX Clean Architecture** . Features secure authentication, role-based access for mechanics and vehicle owners, real-time maintenance schedule tracking, and service booking. 📱
 
+- **[Car Dealership Management System (khmorad)](https://github.com/khmorad/Car_Dealership_Management_System)** [![Stars](https://img.shields.io/github/stars/khmorad/Car_Dealership_Management_System?style=social&color=white)](https://github.com/khmorad/Car_Dealership_Management_System/stargazers)  
+  **Full-stack dealership web platform**, open-source. Integrates inventory management, customer communications, sales order tracking, and post-sale reporting into a unified automotive retail workflow. 📊
+
+- **[Car Repair Management System](https://github.com/ishimweghislain/Car-Repair-Management-system)** [![Stars](https://img.shields.io/github/stars/ishimweghislain/Car-Repair-Management-system?style=social&color=white)](https://github.com/ishimweghislain/Car-Repair-Management-system/stargazers)  
+  **Auto repair workshop workflow system**, open-source. Tracks repair jobs, customer diagnostic records, parts inventories, and workshop technician assignments. 🔧
+
+- **[Car Dealer AI Agent](https://github.com/ahkamboh/car-dealer-ai-agent)** [![Stars](https://img.shields.io/github/stars/ahkamboh/car-dealer-ai-agent?style=social&color=white)](https://github.com/ahkamboh/car-dealer-ai-agent/stargazers)  
+  **AI-powered CRM agent for car dealerships**, open-source. Named Cortex, designed specifically for autonomous customer engagement, vehicle inquiry handling, test-drive scheduling, and automotive sales intelligence. 🤖
+
+- **[Galpon](https://github.com/TeodorArg/galpon)** [![Stars](https://img.shields.io/github/stars/TeodorArg/galpon?style=social&color=white)](https://github.com/TeodorArg/galpon/stargazers)  
+  **Local CRM system for auto repair workshops**, open-source. **FastAPI + SQLModel + SQLite + Jinja2 + TailwindCSS** . Centralized CSRF protection, Alembic database migrations, media validation tools, and complete workshop repair order handling. 🔩
+
+- **[CarSale-CRM](https://github.com/mehdimirzaeeofficcial-cyber/carsale-crm)** [![Stars](https://img.shields.io/github/stars/mehdimirzaeeofficcial-cyber/carsale-crm?style=social&color=white)](https://github.com/mehdimirzaeeofficcial-cyber/carsale-crm/stargazers)  
+  **Comprehensive CRM for installment car sales**, open-source. **Node.js + Tailwind CSS + PWA** . Customer management, installment payment schedule tracking, vehicle catalog, and multi-channel messaging (SMS, WhatsApp). 💳
 
 - **[Dealership Management System (HeldanaG)](https://github.com/HeldanaG/CarDealerShip)** [![Stars](https://img.shields.io/github/stars/HeldanaG/CarDealerShip?style=social&color=white)](https://github.com/HeldanaG/CarDealerShip/stargazers)  
-
-  **Java-based inventory and contract management for multiple dealerships**, open-source. **Each dealership creates its own vehicle inventory file (e.g., PrimeAuto.csv) and contracts file (PrimeAutoContracts.csv)** . **Features**: **add/remove/view vehicles, search by price range, make/model, and type (SUV, Car, Truck)**, **process sales and lease contracts with financing logic based on price tiers**, **lease eligibility restricted to vehicles ≤ 3 years old** . **Receipt printing and per-dealer contract file creation** . **Dealership profile creation, first-time and returning login logic** . **Java JDK 17+, OOP (Inheritance, Abstraction), File I/O with BufferedReader/BufferedWriter** . **The most complete open-source Java-based DMS for multi-dealer operations**. ☕
-
-
+  **Java-based inventory and contract management for multiple dealerships**, open-source. **Java JDK 17+** . Search by price and vehicle type, sales/lease contract calculation algorithms, and per-dealer CSV data persistence. ☕
 
 - **[Car Warehousing Management System](https://github.com/zahmed02/CS2005-DBMS-Car-Warehousing-Management-System)** [![Stars](https://img.shields.io/github/stars/zahmed02/CS2005-DBMS-Car-Warehousing-Management-System?style=social&color=white)](https://github.com/zahmed02/CS2005-DBMS-Car-Warehousing-Management-System/stargazers)  
-
-  **Web-based platform for vehicle inventory and dealership operations**, open-source. **PHP + MySQL + XAMPP stack** . **Features**: **inventory management (tracking and managing car stock), customer management (handling customer interactions and records), dealership operations (streamlined workflows)** . **User-friendly web interface** . **A comprehensive academic project demonstrating full-stack automotive DMS** . 🎓
-
-
+  **Web platform for vehicle inventory and dealership operations**, open-source. **PHP + MySQL + XAMPP** . Complete vehicle warehousing, customer records, and dealership sales tracking. 🎓
 
 ---
 
